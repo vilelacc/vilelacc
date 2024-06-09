@@ -1,6 +1,6 @@
 ````js
 > help --info
-> I am currently studying computer science at the Federal University of Alagoas.
+> I am a computer scientist.
 > Living in Arapiraca, Alagoas, Brazil 🇧🇷.
 > 24 years old.
 > Sometimes speaker, always shitposter.
