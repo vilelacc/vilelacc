@@ -1,8 +1,8 @@
 ````js
 > help --info
-> I am a computer scientist.
+> I'm a Software Developer.
 > Living in Arapiraca, Alagoas, Brazil 🇧🇷.
 > 24 years old.
 > Sometimes speaker, always shitposter.
-> Programming languages, web development.
+> Programming languages, functional, web development.
 ````
