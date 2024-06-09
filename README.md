@@ -1,6 +1,6 @@
 ````js
 > help --info
-> I'm a Software Developer.
+> I am a Software Developer.
 > Living in Arapiraca, Alagoas, Brazil 🇧🇷.
 > 24 years old.
 > Sometimes speaker, always shitposter.
