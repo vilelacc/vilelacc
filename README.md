@@ -1,4 +1,4 @@
-````js
+````bash
 > help --info
 > I am a Software Developer.
 > Living in Arapiraca, Alagoas, Brazil 🇧🇷.
