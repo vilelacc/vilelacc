@@ -1,8 +1,8 @@
 ````bash
 > help --info
-> I am a Software Developer.
+> I am a software developer.
 > Living in Arapiraca, Alagoas, Brazil 🇧🇷.
 > 24 years old.
 > Sometimes speaker, always shitposter.
-> Programming languages, functional, web development.
+> Programming languages, programming paradigms, web development.
 ````
