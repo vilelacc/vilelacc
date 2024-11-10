@@ -4,5 +4,5 @@
 > Living in Arapiraca, Alagoas, Brazil 🇧🇷.
 > 24 years old.
 > Sometimes speaker, always shitposter.
-> Programming languages, programming paradigms, web development.
+> Programming languages, functional, web development.
 ````
